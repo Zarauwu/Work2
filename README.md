@@ -1,5 +1,9 @@
 # este es mi repositorio
 ## creado por:
 ### valery 
-_czarazuabeltran@gmail.com
+_czarazuabeltran@gmail.com_
+
+-----
+separador 
+
 
